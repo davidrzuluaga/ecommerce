@@ -1,0 +1,23 @@
+        #main {
+            margin-left: 1%;
+            margin-right: 1%;
+            margin-top: 12px;
+        }
+
+        #thumb {
+            margin-top: 15px;
+        }
+
+        #top10 {
+            margin-top: 10px;
+        }
+
+        @media (min-width: 576px) {
+            #thumb {
+                margin-top: 25px;
+            }
+            #main {
+                margin-left: 5%;
+                margin-right: 5%;
+            }
+        }
